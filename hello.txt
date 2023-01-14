@@ -1,0 +1,22 @@
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+hello my friend
+vim进入文件内，i进入编辑模式，esc退出编辑模式，:wq保存退出，:q!强制退出
