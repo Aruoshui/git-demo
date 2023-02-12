@@ -1,7 +1,7 @@
 hello my friend 22222
 hello my friend 33333
 hello my friend  
-hello my friend ！！！
+hello my friend 
 hello my friend
 hello my friend
 hello my friend
@@ -20,3 +20,4 @@ hello my friend
 hello my friend master test
 hello my friend hot-fix test
 vim进入文件内，i进入编辑模式，esc退出编辑模式，:wq保存退出，:q!强制退出, dd删除一行
+111111111111111111111111111
